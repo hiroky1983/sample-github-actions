@@ -1,3 +1,3 @@
 # sample-github-actions
 
-github actionsの練習
+github actionsの練習!!!
