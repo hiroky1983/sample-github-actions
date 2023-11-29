@@ -7,7 +7,7 @@
     "dev": "nodemon",
     "test": "jest",
     "build": "ncc build",
-    "test:api": "stepci run stepci/workflow.ymln"
+    "test:api": "stepci run stepci/workflow.yml"
   },
   "author": "",
   "license": "ISC",
